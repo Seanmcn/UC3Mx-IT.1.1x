@@ -1,3 +1,6 @@
+/**
+ * Testing boolean conditionals.
+ */
 public class ExamOneConditionals {
     public static void main(String[] args) {
         int w = 9;

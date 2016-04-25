@@ -1,3 +1,6 @@
+/**
+ * Testing boolean logic.
+ */
 public class ExamOneBooleans {
     public static void main(String[] args) {
         boolean p = false;

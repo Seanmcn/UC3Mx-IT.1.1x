@@ -1,3 +1,6 @@
+/*
+ * Misc program
+ */
 public class ExamOnePrograms {
     public static void main(String[] args) {
         int p = 1;
